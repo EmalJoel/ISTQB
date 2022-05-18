@@ -1,0 +1,4 @@
+# ISTQB notes!
+I am working on my ISTQB foundation level certificate and also learning to use git and github so why note push my notes.  These notes are from a youtube series my Neeraj Kumar Singh under the channel TMsquare.   https://www.youtube.com/channel/UCoFMLIAopJAUmYmiWKI7PXQ   The series has been extremely helpful and if you are studying for the ISTQB please check it out and give him a like and a subscribe.   
+
+Anyway...I have read three different books on the foundation level certificate and have a decent understanding of all the concepts.  The purpose of the notes is to help me remember every thing.  This youtube series has all the information distilled into nice, neat and compact notes so its easy to remember ( I hope) with less bloat.   
